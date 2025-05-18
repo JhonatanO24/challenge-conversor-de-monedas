@@ -10,3 +10,32 @@ El sistema también almacena un historial de conversiones, incluyendo la marca d
 
 ![imagen 1](https://github.com/user-attachments/assets/88dd636c-3dd5-4e7e-a6e6-c096b772478e)
 
+<h2><em>Funcionalidades</em></h2>
+
+<h3><em>1️⃣ Conversión de moneda</em></h3> 
+<p><em>El programa muestra un menú con seis opciones de monedas predeterminadas, permitiendo al usuario seleccionar la moneda base y la moneda de destino para realizar la conversión de manera rápida y sencilla.</em></p>
+
+![imagen 2](https://github.com/user-attachments/assets/29a3b5a1-1de5-494e-9f8a-533b8d5df408)
+
+<h3><em>💲 Resultado de la conversión</em></h3> 
+<p><em>Una vez seleccionada la moneda base y la moneda de destino, el programa solicitará al usuario que ingrese la cantidad a convertir. Luego, mostrará el valor equivalente en la divisa seleccionada, junto con la fecha de la última actualización del tipo de cambio, garantizando precisión en la conversión.</em></p>
+
+![imagen 3](https://github.com/user-attachments/assets/a8d1631e-693a-4f42-913f-e7817e08750d)
+
+<h3><em>🌍 Soporte para más monedas</em></h3> 
+<p><em>Además de las monedas predeterminadas en el menú, el programa ofrece una opción adicional que permite al usuario ingresar el código de cualquier otra moneda para su consulta. Esto aplica tanto para la moneda base como para la moneda de destino, asegurando flexibilidad en las conversiones. Una vez ingresados los códigos, el programa mostrará el resultado correspondiente con la información actualizada.</em></p>
+
+![imagen 4](https://github.com/user-attachments/assets/8fc6ced2-f2a5-4cc8-9722-554e9c10c8fb)
+
+<h3><em>📜 Historial de conversiones</em></h3> 
+<p><em>En esta segunda opción del menú principal, el usuario podrá acceder al historial de conversiones realizadas. Cada entrada en el historial incluirá la marca de tiempo y los detalles de la conversión, permitiendo un seguimiento preciso de las transacciones efectuadas.</em></p>
+
+![imagen 5](https://github.com/user-attachments/assets/2fb8bb95-d69c-4b19-ac8e-4d8db210db2f)
+
+<h3><em>📝 Creación automática de archivo</em></h3> 
+<p><em>Al cerrar el programa, se generará automáticamente un archivo JSON que almacenará la información de todas las divisas ingresadas. Este archivo servirá como un historial detallado, incluyendo la moneda base, la moneda de destino, la cantidad convertida, el resultado de la conversión y la marca de tiempo de cada operación.</em></p>
+
+![imagen 6](https://github.com/user-attachments/assets/28728f3c-17e7-4c7c-a8a3-565f9745e6ef)
+
+
+
