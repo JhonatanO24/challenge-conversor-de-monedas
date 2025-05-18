@@ -1,5 +1,9 @@
 <h1 align="center">💰 Challenge: Conversor de Monedas 💰</h1>
 
+<h2><em>🎯 Objetivo del Challenge</em></h2>
+
+<p><em>Este challenge fue creado como parte de un desafío propuesto para mejorar y fortalecer los conocimientos en Java, con un enfoque en la programación orientada a objetos (POO).</em></p>
+
 <h2><em>Descripción</em></h2>
 
 <p><em>
@@ -37,5 +41,26 @@ El sistema también almacena un historial de conversiones, incluyendo la marca d
 
 ![imagen 6](https://github.com/user-attachments/assets/28728f3c-17e7-4c7c-a8a3-565f9745e6ef)
 
+<h2><em>🛠 Tecnologías utilizadas</em></h2>
+
+<p><em>Este proyecto fue desarrollado utilizando las siguientes tecnologías:</em></p>
+
+
+
+
+- ☕ **Java** – Lenguaje de programación principal para la lógica del conversor.  
+- 🌐 **Exchange Rate API** – API utilizada para obtener tasas de cambio actualizadas.  
+- 📂 **Gson** – Librería de Java utilizada para procesar y manipular archivos JSON.  
+- 💻 **Entorno de ejecución** – El programa se ejecuta por consola en **IntelliJ IDEA**, pero también puede correr en otras terminales o IDEs compatibles con Java, como **Eclipse**, **NetBeans** o directamente en la terminal de comandos.  
+
+
+<h2><em>Estructura del Proyecto</em></h2>
+
+### Explicación de la estructura:
+- **📂 `historial/`** → Maneja el almacenamiento y recuperación de conversiones anteriores.
+- **🔢 `logica/`** → Contiene la lógica de negocio, como búsqueda de moneda y cálculo de conversiones.
+- **📄 `modelo/`** → Define los modelos de datos, como `Moneda.java`, que es un **record** en Java.
+- **🚀 `Principal.java`** → Clase principal encargada de iniciar el programa.
+- **📜 `data/historial.json`** → Almacena el historial de conversiones en formato JSON.
 
 
