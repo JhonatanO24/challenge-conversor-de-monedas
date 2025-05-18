@@ -63,4 +63,13 @@ El sistema también almacena un historial de conversiones, incluyendo la marca d
 - **🚀 `Principal.java`** → Clase principal encargada de iniciar el programa.
 - **📜 `data/historial.json`** → Almacena el historial de conversiones en formato JSON.
 
+<h2><em>⚙ Instalación del Proyecto</em></h2>
+
+<p><em>Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno de desarrollo:</em></p>
+
+### 1️⃣ Clonar el repositorio  
+Ejecuta el siguiente comando en tu terminal:  
+
+```bash
+git clone https://github.com/JhonatanO24/challenge-conversor-de-monedas.git
 
